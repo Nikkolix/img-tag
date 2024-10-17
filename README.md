@@ -11,7 +11,7 @@ go build
 ## Usage
 
 ```sh
-./img-tag.exe -src "./test"
+./img-tag.exe -src "<path>"
 ```
 
 ## Features
